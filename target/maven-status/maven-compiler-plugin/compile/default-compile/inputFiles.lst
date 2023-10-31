@@ -1,0 +1,11 @@
+/home/victorm/Angy/Arqui/HEXAGONAL3/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/lostsys/sample/hexagonal/Application.java
+/home/victorm/Angy/Arqui/HEXAGONAL3/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/lostsys/sample/hexagonal/infra/inputadapter/http/CustomerAPI.java
+/home/victorm/Angy/Arqui/HEXAGONAL3/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/lostsys/sample/hexagonal/domain/Orders.java
+/home/victorm/Angy/Arqui/HEXAGONAL3/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/lostsys/sample/hexagonal/domain/Customer.java
+/home/victorm/Angy/Arqui/HEXAGONAL3/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/lostsys/sample/hexagonal/infra/inputadapter/http/OrderAPI.java
+/home/victorm/Angy/Arqui/HEXAGONAL3/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/lostsys/sample/hexagonal/application/OrderUserCase.java
+/home/victorm/Angy/Arqui/HEXAGONAL3/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/lostsys/sample/hexagonal/application/CustomerUseCase.java
+/home/victorm/Angy/Arqui/HEXAGONAL3/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/lostsys/sample/hexagonal/infra/outputadapter/postgresrepository/PostgresRepository.java
+/home/victorm/Angy/Arqui/HEXAGONAL3/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/lostsys/sample/hexagonal/infra/inputport/OrderInputPort.java
+/home/victorm/Angy/Arqui/HEXAGONAL3/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/lostsys/sample/hexagonal/infra/inputport/CustomerInputPort.java
+/home/victorm/Angy/Arqui/HEXAGONAL3/java-springboot-hexagonal-architecture-sample-main/src/main/java/com/lostsys/sample/hexagonal/infra/outputport/EntityRepository.java
