@@ -6,12 +6,11 @@ import java.util.UUID;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import com.lostsys.sample.hexagonal.domain.Customer;
+
 import com.lostsys.sample.hexagonal.domain.IntentRequest;
-import com.lostsys.sample.hexagonal.domain.Orders;
+
 import com.lostsys.sample.hexagonal.infra.inputport.intentRequestInputPort;
 import com.lostsys.sample.hexagonal.infra.outputport.ClentRepository;
-import com.lostsys.sample.hexagonal.infra.outputport.EntityRepository;
 
 @Component
 public class IntentRequestUseCase implements intentRequestInputPort {
